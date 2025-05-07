@@ -1,0 +1,7 @@
+KAC BANK RECEIPT
+************************
+Name: 
+Initial Deposit: RM0
+Deposit: RM0
+Wtihdraw: RM0
+Balance: RM0
